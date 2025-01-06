@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+
+# Virtual environment
+env/
+
+# Model file
+MobileNetV2.keras
+
+# Sensitive or unnecessary directories
+https/
+
